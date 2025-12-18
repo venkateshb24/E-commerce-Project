@@ -6,7 +6,7 @@ import Home from "./Home";
 import Products from "./Products";
 import Contact from "./Contact";
 import Cart from "./Cart";
-import Login from "./login";
+import Login from "./Login";
 import Register from "./Register";
 import ProtectedRoute from "./ProtectedRoute";
 
